@@ -1,0 +1,9 @@
+score,gains
+water-aware mu=0,"(np.float64(8.0), np.float64(0.0), np.float64(4.0), np.float64(0.55))"
+water-aware mu=0.5,"(np.float64(8.0), np.float64(0.0), np.float64(4.0), np.float64(0.55))"
+water-aware mu=1,"(np.float64(8.0), np.float64(0.0), np.float64(4.0), np.float64(0.55))"
+water-aware mu=2,"(np.float64(8.0), np.float64(0.0), np.float64(4.0), np.float64(0.55))"
+water-aware mu=4,"(np.float64(8.0), np.float64(0.0), np.float64(4.0), np.float64(0.55))"
+water-aware mu=8,"(np.float64(8.0), np.float64(0.0), np.float64(4.0), np.float64(0.55))"
+"J (Eq. 3), lambda3=6","(np.float64(8.0), np.float64(0.0), np.float64(4.0), np.float64(0.55))"
+"J (Eq. 3), lambda3=2","(np.float64(8.0), np.float64(0.0), np.float64(4.0), np.float64(0.55))"
